@@ -1,0 +1,8 @@
+ExSetViewer.pro.user
+moc_debug/
+moc_release/
+ExSetCheck/Debug/
+ExsetCheck/Release
+ExSetCheck/moc_debug
+ExSetCheck/moc_release
+ExSetCheck/ExSetCheck.ncb
